@@ -7,6 +7,6 @@
 - AI-integrated systems  
 - Scalable backend projects  
 
-📫 Reach me: your-email@example.com  
+
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I love turning complex ideas into simple, usable software 🚀
