@@ -1,21 +1,24 @@
-# Hi there 👋 I'm Sharon Naliaka Wafula
+# Hi, I'm Sharon Naliaka Wafula 👋
 
-Full-Stack Developer passionate about building scalable web applications and meaningful digital experiences.
+Full-Stack Developer focused on building scalable, efficient, and user-centered web applications.
 
-## 🔭 What I'm working on
-Building modern full-stack applications using React, Node.js, and PostgreSQL.
+## About Me
+I specialize in developing modern web applications using React and Node.js. I enjoy turning ideas into real-world solutions, with a strong focus on clean architecture, performance, and usability. I’m also interested in AI-driven systems and continuously exploring new technologies to improve my craft.
 
-## 🌱 What I'm learning
-Improving my skills in system design, backend architecture, and AI-powered applications.
+## Tech Stack
+- Frontend: React, JavaScript, TypeScript, HTML, CSS  
+- Backend: Node.js, Express.js  
+- Database: PostgreSQL, MySQL  
+- Tools: Git, GitHub, Postman, Figma  
 
-## 👯 Collaboration
-I'm open to collaborating on web development projects, especially full-stack and API-based systems.
+## What I Do
+- Build full-stack web applications  
+- Design and develop REST APIs  
+- Work with databases and system architecture  
+- Explore AI and automation in web solutions  
 
-## 💬 Ask me about
-React, Node.js, Express.js, PostgreSQL, and building REST APIs.
+## Goals
+To build impactful digital products that solve real problems and continuously grow as a software engineer.
 
-## 📫 Reach me
-Feel free to connect with me for collaborations or opportunities.
-
-## ⚡ Fun fact
-I enjoy turning complex ideas into simple, usable products through code.
+## Contact
+Feel free to connect or collaborate on interesting projects.
