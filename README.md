@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Sharon Naliaka Wafula
 
-<!--
-**Nalish/Nalish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer passionate about building scalable web applications and meaningful digital experiences.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+Building modern full-stack applications using React, Node.js, and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm learning
+Improving my skills in system design, backend architecture, and AI-powered applications.
+
+## 👯 Collaboration
+I'm open to collaborating on web development projects, especially full-stack and API-based systems.
+
+## 💬 Ask me about
+React, Node.js, Express.js, PostgreSQL, and building REST APIs.
+
+## 📫 Reach me
+Feel free to connect with me for collaborations or opportunities.
+
+## ⚡ Fun fact
+I enjoy turning complex ideas into simple, usable products through code.
